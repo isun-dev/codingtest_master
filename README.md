@@ -1,2 +1,4 @@
-# codingtest_master
-코테준비
+# 코테 준비
+
+## 사이트
+- https://www.hackerrank.com/auth/signup
